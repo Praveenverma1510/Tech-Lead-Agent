@@ -1,0 +1,25 @@
+# Core web framework
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.4
+
+# LLM providers
+groq==0.13.1
+httpx==0.28.1
+
+# Config
+python-dotenv==1.0.1
+
+# CLI
+typer==0.15.1
+rich==13.9.4
+
+# Web UI
+streamlit==1.41.1
+
+# Templates (available if HTML rendering needs to grow beyond the built-in converter)
+jinja2==3.1.5
+
+# Testing
+pytest==8.3.4
+pytest-mock==3.14.0

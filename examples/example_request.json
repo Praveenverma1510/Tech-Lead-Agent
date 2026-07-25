@@ -1,0 +1,6 @@
+{
+  "description": "Build an online payment system that lets users pay merchants with a credit card or wallet balance.",
+  "output_format": "markdown",
+  "team_size": 5,
+  "timeline_weeks": 10
+}
